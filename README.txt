@@ -1,4 +1,4 @@
-How to run:
+# How to run:
 1)Change connection string to database in file application.properties
 2)./mvnw package
 3)java -jar .\target\technics-0.0.1-SNAPSHOT.jar
